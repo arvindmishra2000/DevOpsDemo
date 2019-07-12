@@ -1,2 +1,4 @@
 This is the text from Development Branch
 This is text From Release
+Text added through Visual Studio.
+
